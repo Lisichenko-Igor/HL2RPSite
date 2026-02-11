@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>HL2RP | Ваш проект</title>
+    <title>HL2RP | City 17</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="HL2RP сервер Garry's Mod — атмосфера City 17, авторские системы и проработанный лор.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
